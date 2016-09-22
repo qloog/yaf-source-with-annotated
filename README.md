@@ -1,1 +1,3 @@
-# annotated-yaf-source
+# Yaf 框架源码分析注释
+
+本项目基于 3.0.4版本
