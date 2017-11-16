@@ -12,7 +12,7 @@
 
 ### zend_API.h Zend引擎提供的常用API函数
 
- - RETURN_STR(s)： 返回一个zend_string字符串
+ - `RETURN_STR(s)`： 返回一个zend_string字符串
  - RETURN_STRING(s)： 返回一个char *字符串
  - ZEND_PARSE_PARAMETERS_START(min_num_args, max_num_args)： 在使用FAST ZPP方式解析PHP方法传入的参数时，会用到这个宏方法。这个宏方法用于指定参数的最小个数和最大个数
  - ZEND_API int zend_parse_parameters(int num_args, const char *type_spec, ...)： 解析PHP方法函数传入的参数。把传入的参数转换为PHP内核相应的类型
