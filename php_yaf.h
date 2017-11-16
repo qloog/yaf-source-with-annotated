@@ -17,7 +17,7 @@
 #ifndef PHP_YAF_H
 #define PHP_YAF_H
 
-extern zend_module_entry yaf_module_entry;
+extern zend_module_entry yaf_module_entry;	// 声明外部变量
 #define phpext_yaf_ptr &yaf_module_entry
 
 #ifdef PHP_WIN32
