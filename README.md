@@ -72,3 +72,8 @@
 ## YAF中相关的宏定义
 
  - YAF_G
+ 
+ 
+ ## 参考
+ 
+  - http://www.bo56.com/category/programming-language/php-programming-language/
