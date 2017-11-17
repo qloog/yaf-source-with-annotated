@@ -75,6 +75,6 @@
  
  ## 参考
  
-  - http://php.net/manual/zh/internals2.structure.files.php
+  - [PHP 核心：骇客指南 ](http://php.net/manual/zh/internals2.php)
   - http://www.bo56.com/category/programming-language/php-programming-language/
   
